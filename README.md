@@ -1,6 +1,6 @@
 #  Quizzler
 
-a trivia quiz app created by me as part of the London App Brewery IOS development course. 
+A trivia quiz app created by me as part of the London App Brewery IOS development course. 
 
 ## What I learnt
 
